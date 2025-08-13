@@ -43,7 +43,7 @@ It also includes **extended features** such as the ability to undo multiple move
 
 2. **Navigate to the project directory**
    ```bash
-   cd 2048 GAME
+   cd 2048-GAME
   
 3. **Install dependencies**
    ```bash
