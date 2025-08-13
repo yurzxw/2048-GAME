@@ -9,7 +9,7 @@ It also includes **extended features** such as the ability to undo multiple move
 ---
 
 ## 🚀 Live Demo
-[Play 2048 Game](https://yurzxw.github.io/2048-game/)
+[Play 2048 Game](https://yurzxw.github.io/2048-GAME/)
 
 ---
 
