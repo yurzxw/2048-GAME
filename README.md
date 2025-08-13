@@ -39,11 +39,11 @@ It also includes **extended features** such as the ability to undo multiple move
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yurzxw/Creative-Bakery.git
+   git clone https://github.com/yurzxw/2048-GAME.git
 
 2. **Navigate to the project directory**
    ```bash
-   cd Creative-Bakery
+   cd 2048 GAME
   
 3. **Install dependencies**
    ```bash
